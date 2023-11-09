@@ -1,0 +1,9 @@
+{
+    "locales": ["en", "tr"],
+    "defaultLocale": "tr",
+    "pages": {
+      "*": ["common"],
+      "/about": ["about"]
+    },
+    "localeDetection": false
+  }
